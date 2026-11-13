@@ -1,7 +1,7 @@
 # Hey there! I'm Son Nguyen 👋
 ### *CTO by day • AI & Code Alchemist by night* ☕✨
 
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sonnh96.github.io)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sonnh.io.vn)
 [![Telegram](https://img.shields.io/badge/Chat_on_Telegram-@sonnh96-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sonnh96)
 [![GitHub](https://img.shields.io/badge/GitHub-sonnh96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonnh96)
 
